@@ -10,18 +10,23 @@ import math
 import random
 
 import torch
+import numpy as np
 
-from model import monotonic_align
+# from model import monotonic_align
 from model.base import BaseModule
 from model.text_encoder import TextEncoder
 from model.diffusion import Diffusion
 from model.utils import sequence_mask, generate_path, duration_loss, fix_len_compatibility
 
+from matcha.models.components.flow_matching import CFM
+from matcha.models.components.decoder import TimestepEmbedding
+
+from vits.models import StochasticDurationPredictor
 
 class GradTTS(BaseModule):
     def __init__(self, n_vocab, n_spks, spk_emb_dim, n_enc_channels, filter_channels, filter_channels_dp, 
                  n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
-                 n_feats, dec_dim, beta_min, beta_max, pe_scale):
+                 n_feats, dec_dim, beta_min, beta_max, pe_scale, decoder_type="gradtts", matcha_config=[None, None], ifsdp=False, ifzeroshot=False, ifdecodercondition=False, ifuncondition=False, decoderconditiontype="ti", ifCFG=False):
         super(GradTTS, self).__init__()
         self.n_vocab = n_vocab
         self.n_spks = n_spks
@@ -40,15 +45,63 @@ class GradTTS(BaseModule):
         self.beta_max = beta_max
         self.pe_scale = pe_scale
 
+        self.decoder_type = decoder_type
+        if decoder_type=="matchatts":
+            ifRoPE = True
+        else:
+            ifRoPE = False
         if n_spks > 1:
             self.spk_emb = torch.nn.Embedding(n_spks, spk_emb_dim)
         self.encoder = TextEncoder(n_vocab, n_feats, n_enc_channels, 
                                    filter_channels, filter_channels_dp, n_heads, 
-                                   n_enc_layers, enc_kernel, enc_dropout, window_size)
-        self.decoder = Diffusion(n_feats, dec_dim, n_spks, spk_emb_dim, beta_min, beta_max, pe_scale)
-
+                                   n_enc_layers, enc_kernel, enc_dropout, window_size, ifRoPE=ifRoPE)
+        if decoder_type=="gradtts":
+            self.decoder = Diffusion(n_feats, dec_dim, n_spks, spk_emb_dim, beta_min, beta_max, pe_scale)
+        elif decoder_type=="matchatts":
+            decoder, cfm = matcha_config
+            self.decoder = CFM(
+                in_channels=2 * n_feats,
+                out_channel=n_feats,
+                cfm_params=cfm,
+                decoder_params=decoder,
+                n_spks=n_spks,
+                spk_emb_dim=spk_emb_dim,
+            )
+        self.ifsdp = ifsdp
+        if self.ifsdp:
+            self.sdp = StochasticDurationPredictor(n_feats, n_feats, 3, 0.5, 4, gin_channels=spk_emb_dim)
+            
+        self.ifzeroshot = ifzeroshot
+        self.speaker_emb = None
+        if n_spks > 1:
+            if self.ifzeroshot:
+                self.speaker_emb = torch.nn.Sequential(
+                    torch.nn.Linear(256, spk_emb_dim), 
+            )
+        
+        self.ifdecodercondition = ifdecodercondition
+        self.decoderconditiontype = decoderconditiontype
+        if self.ifdecodercondition:
+            time_embed_dim = decoder["channels"][0]*4
+            in_channels = 2*n_feats + (spk_emb_dim if n_spks > 1 else 0)
+            outnch = time_embed_dim if self.decoderconditiontype=="ti" else in_channels
+            self.ed_decoding_embedding = torch.nn.Sequential(
+                torch.nn.Linear(12, outnch),
+                torch.nn.Tanh(),
+            )
+                
+            if self.decoderconditiontype=="ti":
+                self.ed_time_mlp = TimestepEmbedding(
+                    in_channels=in_channels,
+                    time_embed_dim=time_embed_dim,
+                    act_fn="silu",
+                )
+            
+        self.ifuncondition = ifuncondition
+        self.ifCFG = ifCFG
+                
     @torch.no_grad()
-    def forward(self, x, x_lengths, n_timesteps, temperature=1.0, stoc=False, spk=None, length_scale=1.0):
+    def forward(self, x, x_lengths, n_timesteps, ed, se, temperature=1.0, stoc=False, spk=None, length_scale=1.0, gscale=2.0, random_seed=None):
         """
         Generates mel-spectrogram from text. Returns:
             1. encoder outputs
@@ -69,10 +122,21 @@ class GradTTS(BaseModule):
 
         if self.n_spks > 1:
             # Get speaker embedding
-            spk = self.spk_emb(spk)
+            if self.ifzeroshot:
+                spk_embedding = self.speaker_emb(se) # se: speaker embedding
+            else:
+                spk_embedding = self.spk_emb(spk)
 
         # Get encoder_outputs `mu_x` and log-scaled token durations `logw`
-        mu_x, logw, x_mask = self.encoder(x, x_lengths, spk)
+        if self.ifuncondition:
+            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed=None)
+        else:
+            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed)
+            if self.ifCFG:
+                mu_x_unc, _, _ = self.encoder(x, x_lengths, spk, ed=None)
+            
+        if self.ifsdp:
+            logw = self.sdp(mu_x, x_mask, g=spk_embedding.unsqueeze(-1), reverse=True, noise_scale=1.0)
 
         w = torch.exp(logw) * x_mask
         w_ceil = torch.ceil(w) * length_scale
@@ -88,17 +152,38 @@ class GradTTS(BaseModule):
         # Align encoded text and get mu_y
         mu_y = torch.matmul(attn.squeeze(1).transpose(1, 2), mu_x.transpose(1, 2))
         mu_y = mu_y.transpose(1, 2)
+        if self.ifCFG:
+            mu_y_unc = torch.matmul(attn.squeeze(1).transpose(1, 2), mu_x_unc.transpose(1, 2))
+            mu_y_unc = mu_y_unc.transpose(1, 2)
+            cond2 = [mu_y_unc, gscale]
+        else:
+            cond2 = None
         encoder_outputs = mu_y[:, :, :y_max_length]
 
-        # Sample latent representation from terminal distribution N(mu_y, I)
-        z = mu_y + torch.randn_like(mu_y, device=mu_y.device) / temperature
-        # Generate sample by performing reverse dynamics
-        decoder_outputs = self.decoder(z, y_mask, mu_y, n_timesteps, stoc, spk)
+        if self.decoder_type=="gradtts":
+            # Sample latent representation from terminal distribution N(mu_y, I)
+            z = mu_y + torch.randn_like(mu_y, device=mu_y.device) / temperature
+            # Generate sample by performing reverse dynamics
+            decoder_outputs = self.decoder(z, y_mask, mu_y, n_timesteps, stoc, spk_embedding)
+        elif self.decoder_type=="matchatts":
+            cond = None
+            if self.ifdecodercondition:
+                cond = self.ed_decoding_embedding(ed)
+                if self.decoderconditiontype=="ti":
+                    time = torch.arange(ed.shape[1]).to(ed.device)
+                    time = self.decoder.estimator.time_embeddings(time).unsqueeze(0)
+                    cond = cond + self.ed_time_mlp(time)
+                    cond = (cond*x_mask.transpose(1,2)).sum(1)/x_mask.sum((2))
+                elif self.decoderconditiontype=="fe":
+                    aligned_cond = torch.matmul(attn.squeeze(1).transpose(1, 2), cond*x_mask.transpose(1,2))
+                    cond = aligned_cond.transpose(1, 2)
+                
+            decoder_outputs = self.decoder(mu_y, y_mask, n_timesteps, spks=spk_embedding, cond=cond, cond2=cond2, random_seed=random_seed)
         decoder_outputs = decoder_outputs[:, :, :y_max_length]
 
         return encoder_outputs, decoder_outputs, attn[:, :, :y_max_length]
 
-    def compute_loss(self, x, x_lengths, y, y_lengths, spk=None, out_size=None):
+    def compute_loss(self, x, x_lengths, y, y_lengths, duration, ed, se, spk=None, out_size=None):
         """
         Computes 3 losses:
             1. duration loss: loss between predicted token durations and those extracted by Monotinic Alignment Search (MAS).
@@ -117,62 +202,67 @@ class GradTTS(BaseModule):
 
         if self.n_spks > 1:
             # Get speaker embedding
-            spk = self.spk_emb(spk)
+            if self.ifzeroshot:
+                spk = self.speaker_emb(se) # se: speaker embedding
+            else:
+                spk = self.spk_emb(spk)
         
         # Get encoder_outputs `mu_x` and log-scaled token durations `logw`
-        mu_x, logw, x_mask = self.encoder(x, x_lengths, spk)
+        ed_condition = True
+        if self.ifuncondition:
+            ed_condition = False
+        elif self.ifCFG: # Classifier Free Guidance
+            if np.random.random()<0.1:
+                ed_condition = False
+        else:
+            pass
+        if ed_condition:
+            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed)
+        else:
+            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed=None)
+            
         y_max_length = y.shape[-1]
 
         y_mask = sequence_mask(y_lengths, y_max_length).unsqueeze(1).to(x_mask)
-        attn_mask = x_mask.unsqueeze(-1) * y_mask.unsqueeze(2)
 
-        # Use MAS to find most likely alignment `attn` between text and mel-spectrogram
-        with torch.no_grad(): 
-            const = -0.5 * math.log(2 * math.pi) * self.n_feats
-            factor = -0.5 * torch.ones(mu_x.shape, dtype=mu_x.dtype, device=mu_x.device)
-            y_square = torch.matmul(factor.transpose(1, 2), y ** 2)
-            y_mu_double = torch.matmul(2.0 * (factor * mu_x).transpose(1, 2), y)
-            mu_square = torch.sum(factor * (mu_x ** 2), 1).unsqueeze(-1)
-            log_prior = y_square - y_mu_double + mu_square + const
+        attn = torch.zeros((*duration.shape, y.shape[2]))
+        for i in range(attn.shape[0]):
+            start = 0
+            for j in range(attn.shape[1]):
+                now = duration[i][j]
+                attn[i, j, start:start+now] = 1.0
+                start += now
+        attn = attn.to(mu_x.device)
+        
+        if self.ifsdp:
+            w = attn.unsqueeze(1).detach().sum(3)
+            l_length = self.sdp(mu_x, x_mask, w, g=spk.unsqueeze(-1))
+            dur_loss = (l_length / torch.sum(x_mask)).sum()
+        else:
+            logw_ = torch.log(1e-8 + duration.unsqueeze(1)) * x_mask
+            logw_ = logw_.to(mu_x.device)
 
-            attn = monotonic_align.maximum_path(log_prior, attn_mask.squeeze(1))
-            attn = attn.detach()
-
-        # Compute loss between predicted log-scaled durations and those obtained from MAS
-        logw_ = torch.log(1e-8 + torch.sum(attn.unsqueeze(1), -1)) * x_mask
-        dur_loss = duration_loss(logw, logw_, x_lengths)
-
-        # Cut a small segment of mel-spectrogram in order to increase batch size
-        if not isinstance(out_size, type(None)):
-            max_offset = (y_lengths - out_size).clamp(0)
-            offset_ranges = list(zip([0] * max_offset.shape[0], max_offset.cpu().numpy()))
-            out_offset = torch.LongTensor([
-                torch.tensor(random.choice(range(start, end)) if end > start else 0)
-                for start, end in offset_ranges
-            ]).to(y_lengths)
-            
-            attn_cut = torch.zeros(attn.shape[0], attn.shape[1], out_size, dtype=attn.dtype, device=attn.device)
-            y_cut = torch.zeros(y.shape[0], self.n_feats, out_size, dtype=y.dtype, device=y.device)
-            y_cut_lengths = []
-            for i, (y_, out_offset_) in enumerate(zip(y, out_offset)):
-                y_cut_length = out_size + (y_lengths[i] - out_size).clamp(None, 0)
-                y_cut_lengths.append(y_cut_length)
-                cut_lower, cut_upper = out_offset_, out_offset_ + y_cut_length
-                y_cut[i, :, :y_cut_length] = y_[:, cut_lower:cut_upper]
-                attn_cut[i, :, :y_cut_length] = attn[i, :, cut_lower:cut_upper]
-            y_cut_lengths = torch.LongTensor(y_cut_lengths)
-            y_cut_mask = sequence_mask(y_cut_lengths).unsqueeze(1).to(y_mask)
-            
-            attn = attn_cut
-            y = y_cut
-            y_mask = y_cut_mask
+            # Compute loss between predicted log-scaled durations and those obtained from MAS
+            dur_loss = duration_loss(logw, logw_, x_lengths)
 
         # Align encoded text with mel-spectrogram and get mu_y segment
         mu_y = torch.matmul(attn.squeeze(1).transpose(1, 2), mu_x.transpose(1, 2))
         mu_y = mu_y.transpose(1, 2)
+        
+        cond = None
+        if self.ifdecodercondition:
+            cond = self.ed_decoding_embedding(ed)
+            if self.decoderconditiontype=="ti":
+                time = torch.arange(ed.shape[1]).to(ed.device)
+                time = self.decoder.estimator.time_embeddings(time).unsqueeze(0)
+                cond = cond + self.ed_time_mlp(time)
+                cond = (cond*x_mask.transpose(1,2)).sum(1)/x_mask.sum((2))
+            elif self.decoderconditiontype=="fe":
+                aligned_cond = torch.matmul(attn.squeeze(1).transpose(1, 2), cond*x_mask.transpose(1,2))
+                cond = aligned_cond.transpose(1, 2)
 
         # Compute loss of score-based decoder
-        diff_loss, xt = self.decoder.compute_loss(y, y_mask, mu_y, spk)
+        diff_loss, xt = self.decoder.compute_loss(y, y_mask, mu_y, spk, cond=cond)
         
         # Compute loss between aligned encoder outputs and mel-spectrogram
         prior_loss = torch.sum(0.5 * ((y - mu_y) ** 2 + math.log(2 * math.pi)) * y_mask)

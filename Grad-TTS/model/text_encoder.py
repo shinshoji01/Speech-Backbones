@@ -7,6 +7,7 @@ import torch
 from model.base import BaseModule
 from model.utils import sequence_mask, convert_pad_shape
 
+from matcha.models.components.text_encoder import RotaryPositionalEmbeddings
 
 class LayerNorm(BaseModule):
     def __init__(self, channels, eps=1e-4):
@@ -96,7 +97,7 @@ class DurationPredictor(BaseModule):
 class MultiHeadAttention(BaseModule):
     def __init__(self, channels, out_channels, n_heads, window_size=None, 
                  heads_share=True, p_dropout=0.0, proximal_bias=False, 
-                 proximal_init=False):
+                 proximal_init=False, ifRoPE=False):
         super(MultiHeadAttention, self).__init__()
         assert channels % n_heads == 0
 
@@ -108,6 +109,7 @@ class MultiHeadAttention(BaseModule):
         self.proximal_bias = proximal_bias
         self.p_dropout = p_dropout
         self.attn = None
+        self.ifRoPE = ifRoPE
 
         self.k_channels = channels // n_heads
         self.conv_q = torch.nn.Conv1d(channels, channels, 1)
@@ -129,6 +131,9 @@ class MultiHeadAttention(BaseModule):
             self.conv_k.weight.data.copy_(self.conv_q.weight.data)
             self.conv_k.bias.data.copy_(self.conv_q.bias.data)
         torch.nn.init.xavier_uniform_(self.conv_v.weight)
+        if ifRoPE:
+            self.query_rotary_pe = RotaryPositionalEmbeddings(self.k_channels * 0.5)
+            self.key_rotary_pe = RotaryPositionalEmbeddings(self.k_channels * 0.5)
         
     def forward(self, x, c, attn_mask=None):
         q = self.conv_q(x)
@@ -146,14 +151,20 @@ class MultiHeadAttention(BaseModule):
         key = key.view(b, self.n_heads, self.k_channels, t_s).transpose(2, 3)
         value = value.view(b, self.n_heads, self.k_channels, t_s).transpose(2, 3)
 
-        scores = torch.matmul(query, key.transpose(-2, -1)) / math.sqrt(self.k_channels)
-        if self.window_size is not None:
-            assert t_s == t_t, "Relative attention is only available for self-attention."
-            key_relative_embeddings = self._get_relative_embeddings(self.emb_rel_k, t_s)
-            rel_logits = self._matmul_with_relative_keys(query, key_relative_embeddings)
-            rel_logits = self._relative_position_to_absolute_position(rel_logits)
-            scores_local = rel_logits / math.sqrt(self.k_channels)
-            scores = scores + scores_local
+        if self.ifRoPE:
+            query = self.query_rotary_pe(query)
+            key = self.key_rotary_pe(key)
+            scores = torch.matmul(query, key.transpose(-2, -1)) / math.sqrt(self.k_channels)
+        else:
+            scores = torch.matmul(query, key.transpose(-2, -1)) / math.sqrt(self.k_channels)
+            if self.window_size is not None:
+                assert t_s == t_t, "Relative attention is only available for self-attention."
+                key_relative_embeddings = self._get_relative_embeddings(self.emb_rel_k, t_s)
+                rel_logits = self._matmul_with_relative_keys(query, key_relative_embeddings)
+                rel_logits = self._relative_position_to_absolute_position(rel_logits)
+                scores_local = rel_logits / math.sqrt(self.k_channels)
+                scores = scores + scores_local
+                
         if self.proximal_bias:
             assert t_s == t_t, "Proximal bias is only available for self-attention."
             scores = scores + self._attention_bias_proximal(t_s).to(device=scores.device, 
@@ -241,7 +252,7 @@ class FFN(BaseModule):
 
 class Encoder(BaseModule):
     def __init__(self, hidden_channels, filter_channels, n_heads, n_layers, 
-                 kernel_size=1, p_dropout=0.0, window_size=None, **kwargs):
+                 kernel_size=1, p_dropout=0.0, window_size=None, ifRoPE=False, **kwargs):
         super(Encoder, self).__init__()
         self.hidden_channels = hidden_channels
         self.filter_channels = filter_channels
@@ -258,7 +269,7 @@ class Encoder(BaseModule):
         self.norm_layers_2 = torch.nn.ModuleList()
         for _ in range(self.n_layers):
             self.attn_layers.append(MultiHeadAttention(hidden_channels, hidden_channels,
-                                    n_heads, window_size=window_size, p_dropout=p_dropout))
+                                    n_heads, window_size=window_size, p_dropout=p_dropout, ifRoPE=ifRoPE))
             self.norm_layers_1.append(LayerNorm(hidden_channels))
             self.ffn_layers.append(FFN(hidden_channels, hidden_channels,
                                        filter_channels, kernel_size, p_dropout=p_dropout))
@@ -281,7 +292,7 @@ class Encoder(BaseModule):
 class TextEncoder(BaseModule):
     def __init__(self, n_vocab, n_feats, n_channels, filter_channels, 
                  filter_channels_dp, n_heads, n_layers, kernel_size, 
-                 p_dropout, window_size=None, spk_emb_dim=64, n_spks=1):
+                 p_dropout, window_size=None, spk_emb_dim=64, n_spks=1, ifRoPE=False):
         super(TextEncoder, self).__init__()
         self.n_vocab = n_vocab
         self.n_feats = n_feats
@@ -303,13 +314,17 @@ class TextEncoder(BaseModule):
                                    kernel_size=5, n_layers=3, p_dropout=0.5)
 
         self.encoder = Encoder(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels, n_heads, n_layers, 
-                               kernel_size, p_dropout, window_size=window_size)
+                               kernel_size, p_dropout, window_size=window_size, ifRoPE=ifRoPE)
 
         self.proj_m = torch.nn.Conv1d(n_channels + (spk_emb_dim if n_spks > 1 else 0), n_feats, 1)
         self.proj_w = DurationPredictor(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels_dp, 
                                         kernel_size, p_dropout)
+        self.ed_embedding = torch.nn.Sequential(
+            torch.nn.Linear(12, n_channels), 
+            torch.nn.Tanh()
+        )
 
-    def forward(self, x, x_lengths, spk=None):
+    def forward(self, x, x_lengths, spk=None, ed=None):
         x = self.emb(x) * math.sqrt(self.n_channels)
         x = torch.transpose(x, 1, -1)
         x_mask = torch.unsqueeze(sequence_mask(x_lengths, x.size(2)), 1).to(x.dtype)
@@ -318,6 +333,11 @@ class TextEncoder(BaseModule):
         if self.n_spks > 1:
             x = torch.cat([x, spk.unsqueeze(-1).repeat(1, 1, x.shape[-1])], dim=1)
         x = self.encoder(x, x_mask)
+        
+        if ed is not None:
+            # Add hierarchical emotion distribution embedding
+            x = x + self.ed_embedding(ed).transpose(-1,-2)
+        
         mu = self.proj_m(x) * x_mask
 
         x_dp = torch.detach(x)
