@@ -1,0 +1,1000 @@
+0016_000703_Happy_evaluation|0016|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0020_000008_Neutral_evaluation|0020|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_000007_Neutral_evaluation|0019|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0011_000012_Neutral_evaluation|0011|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0020_000704_Happy_evaluation|0020|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0016_001062_Sad_evaluation|0016|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0019_000367_Angry_evaluation|0019|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0012_000005_Neutral_evaluation|0012|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0017_000012_Neutral_evaluation|0017|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0015_000370_Angry_evaluation|0015|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0012_001420_Surprise_evaluation|0012|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0016_001066_Sad_evaluation|0016|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_001068_Sad_evaluation|0011|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_001069_Sad_evaluation|0019|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0020_000369_Angry_evaluation|0020|{AE1 T DH AH0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0012_000364_Angry_evaluation|0012|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001413_Surprise_evaluation|0020|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0012_000367_Angry_evaluation|0012|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0015_001401_Surprise_evaluation|0015|{DH IY0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0013_001418_Surprise_evaluation|0013|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0015_000706_Happy_evaluation|0015|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0020_001415_Surprise_evaluation|0020|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0020_001406_Surprise_evaluation|0020|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0019_001070_Sad_evaluation|0019|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0015_001058_Sad_evaluation|0015|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0012_000008_Neutral_evaluation|0012|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0015_000007_Neutral_evaluation|0015|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0018_001057_Sad_evaluation|0018|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0015_000359_Angry_evaluation|0015|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0013_000361_Angry_evaluation|0013|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0011_001409_Surprise_evaluation|0011|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0017_000005_Neutral_evaluation|0017|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0020_001063_Sad_evaluation|0020|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_001062_Sad_evaluation|0018|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0016_000369_Angry_evaluation|0016|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0017_000366_Angry_evaluation|0017|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0017_000361_Angry_evaluation|0017|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0015_000369_Angry_evaluation|0015|{AE1 T DH AH0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0014_001060_Sad_evaluation|0014|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0011_000004_Neutral_evaluation|0011|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_001408_Surprise_evaluation|0012|{DH AE1 T W AA1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0020_000018_Neutral_evaluation|0020|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0012_001403_Surprise_evaluation|0012|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0015_000352_Angry_evaluation|0015|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0012_000707_Happy_evaluation|0012|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0019_001419_Surprise_evaluation|0019|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0019_001068_Sad_evaluation|0019|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0020_000710_Happy_evaluation|0020|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_000701_Happy_evaluation|0016|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0014_000367_Angry_evaluation|0014|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_000016_Neutral_evaluation|0020|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0020_001052_Sad_evaluation|0020|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0020_000716_Happy_evaluation|0020|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0020_000701_Happy_evaluation|0020|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0016_000010_Neutral_evaluation|0016|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0019_000716_Happy_evaluation|0019|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0020_000019_Neutral_evaluation|0020|{AE1 T DH AH0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0011_000364_Angry_evaluation|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0012_000718_Happy_evaluation|0012|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_000715_Happy_evaluation|0016|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0016_000018_Neutral_evaluation|0016|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_000016_Neutral_evaluation|0019|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R EY1 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000019_Neutral_evaluation|0011|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0016_000709_Happy_evaluation|0016|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0016_001068_Sad_evaluation|0016|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0012_001062_Sad_evaluation|0012|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0020_001407_Surprise_evaluation|0020|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0019_001060_Sad_evaluation|0019|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0015_001402_Surprise_evaluation|0015|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0019_000361_Angry_evaluation|0019|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_000367_Angry_evaluation|0017|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_001062_Sad_evaluation|0020|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0018_001419_Surprise_evaluation|0018|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0019_000003_Neutral_evaluation|0019|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0020_001417_Surprise_evaluation|0020|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_001056_Sad_evaluation|0019|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_001063_Sad_evaluation|0013|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_000370_Angry_evaluation|0019|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0017_000714_Happy_evaluation|0017|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_000010_Neutral_evaluation|0017|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0017_000020_Neutral_evaluation|0017|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0014_000005_Neutral_evaluation|0014|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0011_001418_Surprise_evaluation|0011|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_000012_Neutral_evaluation|0016|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0015_000719_Happy_evaluation|0015|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0012_001052_Sad_evaluation|0012|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0011_001412_Surprise_evaluation|0011|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0012_001069_Sad_evaluation|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0012_000712_Happy_evaluation|0012|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0017_000007_Neutral_evaluation|0017|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0012_000363_Angry_evaluation|0012|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0020_000351_Angry_evaluation|0020|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_001066_Sad_evaluation|0017|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000711_Happy_evaluation|0011|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_001054_Sad_evaluation|0017|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0020_000357_Angry_evaluation|0020|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0012_001412_Surprise_evaluation|0012|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0019_001406_Surprise_evaluation|0019|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0015_001051_Sad_evaluation|0015|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0015_000003_Neutral_evaluation|0015|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0014_001408_Surprise_evaluation|0014|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_000002_Neutral_evaluation|0016|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0020_000720_Happy_evaluation|0020|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0011_001414_Surprise_evaluation|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_001066_Sad_evaluation|0015|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000013_Neutral_evaluation|0011|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0017_001412_Surprise_evaluation|0017|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0019_000008_Neutral_evaluation|0019|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0012_001418_Surprise_evaluation|0012|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_001405_Surprise_evaluation|0016|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000019_Neutral_evaluation|0018|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0017_000013_Neutral_evaluation|0017|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_000352_Angry_evaluation|0018|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0014_000003_Neutral_evaluation|0014|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0017_000713_Happy_evaluation|0017|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0014_000361_Angry_evaluation|0014|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_001054_Sad_evaluation|0014|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0011_000715_Happy_evaluation|0011|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0016_000354_Angry_evaluation|0016|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_001059_Sad_evaluation|0013|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_000008_Neutral_evaluation|0014|{DH AE1 T W AA1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_000368_Angry_evaluation|0019|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0014_000708_Happy_evaluation|0014|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0018_001409_Surprise_evaluation|0018|{AO1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0020_001403_Surprise_evaluation|0020|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0013_001415_Surprise_evaluation|0013|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0017_001404_Surprise_evaluation|0017|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_000005_Neutral_evaluation|0013|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000018_Neutral_evaluation|0018|{DH EH1 N S AE1 D L IY0 IH0 T IH1 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0017_000717_Happy_evaluation|0017|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0011_000354_Angry_evaluation|0011|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_000703_Happy_evaluation|0013|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0011_000714_Happy_evaluation|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0012_001065_Sad_evaluation|0012|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0015_001417_Surprise_evaluation|0015|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0017_000710_Happy_evaluation|0017|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_000711_Happy_evaluation|0016|{CH AE1 P T ER0 T EH1 N EY1 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0012_001061_Sad_evaluation|0012|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0013_000717_Happy_evaluation|0013|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0018_000013_Neutral_evaluation|0018|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0016_000009_Neutral_evaluation|0016|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_001407_Surprise_evaluation|0014|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0013_001401_Surprise_evaluation|0013|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0012_000369_Angry_evaluation|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0011_001051_Sad_evaluation|0011|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0014_000359_Angry_evaluation|0014|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0017_000353_Angry_evaluation|0017|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0020_000702_Happy_evaluation|0020|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0014_000368_Angry_evaluation|0014|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0012_001402_Surprise_evaluation|0012|{AY1 D IH1 D G OW1 AH0 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0015_001416_Surprise_evaluation|0015|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000362_Angry_evaluation|0011|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0011_000705_Happy_evaluation|0011|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0019_001410_Surprise_evaluation|0019|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0020_000009_Neutral_evaluation|0020|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_001406_Surprise_evaluation|0014|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_000353_Angry_evaluation|0013|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T IH0 Y UW1}|That I owe my thanks to you.
+0012_000720_Happy_evaluation|0012|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0020_000368_Angry_evaluation|0020|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_000015_Neutral_evaluation|0016|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0019_001411_Surprise_evaluation|0019|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0011_000020_Neutral_evaluation|0011|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0016_001063_Sad_evaluation|0016|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0017_001414_Surprise_evaluation|0017|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_001420_Surprise_evaluation|0011|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0013_000004_Neutral_evaluation|0013|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_001419_Surprise_evaluation|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0013_001406_Surprise_evaluation|0013|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_001065_Sad_evaluation|0013|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0014_001414_Surprise_evaluation|0014|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001070_Sad_evaluation|0020|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0011_001404_Surprise_evaluation|0011|{DH EY1 W EH1 N T AH1 P T AH0 DH AH1 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0018_001411_Surprise_evaluation|0018|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0013_000709_Happy_evaluation|0013|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0011_001054_Sad_evaluation|0011|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0014_001405_Surprise_evaluation|0014|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0015_000718_Happy_evaluation|0015|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0012_001063_Sad_evaluation|0012|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_000358_Angry_evaluation|0019|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0015_000362_Angry_evaluation|0015|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_001055_Sad_evaluation|0014|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000020_Neutral_evaluation|0018|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0018_000014_Neutral_evaluation|0018|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_000358_Angry_evaluation|0020|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0012_000361_Angry_evaluation|0012|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_000004_Neutral_evaluation|0014|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_000352_Angry_evaluation|0012|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0019_001063_Sad_evaluation|0019|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_001070_Sad_evaluation|0018|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0018_000709_Happy_evaluation|0018|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0019_001402_Surprise_evaluation|0019|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0016_000006_Neutral_evaluation|0016|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G AE1 M B AH0 L}|Andy what's the gyre and to gamble.
+0013_000356_Angry_evaluation|0013|{AE1 N D HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|And what's the gyre and to gimble.
+0019_000356_Angry_evaluation|0019|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0012_000709_Happy_evaluation|0012|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0016_000020_Neutral_evaluation|0016|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0017_001411_Surprise_evaluation|0017|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_001058_Sad_evaluation|0014|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_001415_Surprise_evaluation|0016|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0011_001058_Sad_evaluation|0011|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_001419_Surprise_evaluation|0016|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0016_001069_Sad_evaluation|0016|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0014_000365_Angry_evaluation|0014|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0011_001410_Surprise_evaluation|0011|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0013_000712_Happy_evaluation|0013|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0020_000007_Neutral_evaluation|0020|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0017_001409_Surprise_evaluation|0017|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0016_000363_Angry_evaluation|0016|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0012_000014_Neutral_evaluation|0012|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001055_Sad_evaluation|0020|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0014_000712_Happy_evaluation|0014|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_001404_Surprise_evaluation|0014|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0019_001052_Sad_evaluation|0019|{AY1 D IH1 D G OW1 AH0 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0015_000364_Angry_evaluation|0015|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_000355_Angry_evaluation|0015|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0019_000019_Neutral_evaluation|0019|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0019_000360_Angry_evaluation|0019|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_000357_Angry_evaluation|0014|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0015_001068_Sad_evaluation|0015|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0014_001415_Surprise_evaluation|0014|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0016_000016_Neutral_evaluation|0016|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0014_001051_Sad_evaluation|0014|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0020_001420_Surprise_evaluation|0020|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0012_000011_Neutral_evaluation|0012|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_000718_Happy_evaluation|0017|{DH EH1 N S AE1 D L IY0 IH0 T IH1 Z M AH1 CH F ER1 DH ER0}|Then sadly it is much further.
+0013_001404_Surprise_evaluation|0013|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_000017_Neutral_evaluation|0013|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0015_001069_Sad_evaluation|0015|{AE1 T DH AH0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0017_000706_Happy_evaluation|0017|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0018_000717_Happy_evaluation|0018|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_001056_Sad_evaluation|0020|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T UW1 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0011_000720_Happy_evaluation|0011|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0015_001061_Sad_evaluation|0015|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0019_000708_Happy_evaluation|0019|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0013_000710_Happy_evaluation|0013|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0013_000002_Neutral_evaluation|0013|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0013_000011_Neutral_evaluation|0013|{CH AE1 P T ER0 T EH1 N EY1 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_000707_Happy_evaluation|0014|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0012_000358_Angry_evaluation|0012|{DH AE1 T W AA1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_001062_Sad_evaluation|0019|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0015_001065_Sad_evaluation|0015|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0015_001404_Surprise_evaluation|0015|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0016_000707_Happy_evaluation|0016|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0020_000707_Happy_evaluation|0020|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0016_001057_Sad_evaluation|0016|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0018_001065_Sad_evaluation|0018|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_001420_Surprise_evaluation|0018|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0014_000713_Happy_evaluation|0014|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0016_001409_Surprise_evaluation|0016|{AO1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0012_001066_Sad_evaluation|0012|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0013_000001_Neutral_evaluation|0013|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0015_000013_Neutral_evaluation|0015|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0011_001403_Surprise_evaluation|0011|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0015_001052_Sad_evaluation|0015|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0015_000717_Happy_evaluation|0015|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0013_000016_Neutral_evaluation|0013|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0014_001410_Surprise_evaluation|0014|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0019_001415_Surprise_evaluation|0019|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0011_001063_Sad_evaluation|0011|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0015_000353_Angry_evaluation|0015|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0015_000701_Happy_evaluation|0015|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0016_000359_Angry_evaluation|0016|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_000020_Neutral_evaluation|0014|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V EY1 G R AE1 S}|At the roots-of a bush of a grass.
+0013_000003_Neutral_evaluation|0013|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0019_000718_Happy_evaluation|0019|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_000017_Neutral_evaluation|0019|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_001059_Sad_evaluation|0020|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0015_001060_Sad_evaluation|0015|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_001418_Surprise_evaluation|0014|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_001055_Sad_evaluation|0019|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000703_Happy_evaluation|0018|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T IH0 Y UW1}|That I owe my thanks to you.
+0011_000007_Neutral_evaluation|0011|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0017_000708_Happy_evaluation|0017|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0011_000016_Neutral_evaluation|0011|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000707_Happy_evaluation|0011|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY1}|I'm as bad as I can be.
+0013_000009_Neutral_evaluation|0013|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0017_000008_Neutral_evaluation|0017|{DH AE1 T W AA1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0020_000365_Angry_evaluation|0020|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0013_001402_Surprise_evaluation|0013|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0014_000353_Angry_evaluation|0014|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0018_000711_Happy_evaluation|0018|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_000358_Angry_evaluation|0014|{DH AE1 T W AA1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_001064_Sad_evaluation|0019|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_000720_Happy_evaluation|0017|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0015_000715_Happy_evaluation|0015|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0019_000720_Happy_evaluation|0019|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0017_000701_Happy_evaluation|0017|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0016_000710_Happy_evaluation|0016|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0012_000715_Happy_evaluation|0012|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0019_000351_Angry_evaluation|0019|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0018_000353_Angry_evaluation|0018|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0016_001059_Sad_evaluation|0016|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0020_000356_Angry_evaluation|0020|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0018_001412_Surprise_evaluation|0018|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0015_000368_Angry_evaluation|0015|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0011_001053_Sad_evaluation|0011|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0011_000366_Angry_evaluation|0011|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0019_001401_Surprise_evaluation|0019|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0016_000019_Neutral_evaluation|0016|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0011_000359_Angry_evaluation|0011|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0017_000001_Neutral_evaluation|0017|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0019_000705_Happy_evaluation|0019|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0014_000354_Angry_evaluation|0014|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0015_000004_Neutral_evaluation|0015|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_000702_Happy_evaluation|0012|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0014_000356_Angry_evaluation|0014|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0020_000359_Angry_evaluation|0020|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0013_000015_Neutral_evaluation|0013|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0015_000716_Happy_evaluation|0015|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0012_001060_Sad_evaluation|0012|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0015_000008_Neutral_evaluation|0015|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0013_000369_Angry_evaluation|0013|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0019_000364_Angry_evaluation|0019|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0016_001402_Surprise_evaluation|0016|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0014_001403_Surprise_evaluation|0014|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0012_001055_Sad_evaluation|0012|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_001067_Sad_evaluation|0018|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_000353_Angry_evaluation|0020|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0016_000013_Neutral_evaluation|0016|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0012_000017_Neutral_evaluation|0012|{W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_001067_Sad_evaluation|0019|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0012_000002_Neutral_evaluation|0012|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0014_000018_Neutral_evaluation|0014|{DH EH1 N S AE1 D L IY0 IH0 T IH1 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0011_000710_Happy_evaluation|0011|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0018_000356_Angry_evaluation|0018|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_001053_Sad_evaluation|0013|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0016_000366_Angry_evaluation|0016|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0016_001052_Sad_evaluation|0016|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0018_000710_Happy_evaluation|0018|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_000355_Angry_evaluation|0016|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0015_001055_Sad_evaluation|0015|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0012_001054_Sad_evaluation|0012|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0018_001063_Sad_evaluation|0018|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_001404_Surprise_evaluation|0019|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0019_000020_Neutral_evaluation|0019|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0015_001408_Surprise_evaluation|0015|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_000718_Happy_evaluation|0016|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0014_001068_Sad_evaluation|0014|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0018_000008_Neutral_evaluation|0018|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0013_001056_Sad_evaluation|0013|{AE1 N D HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|And what's the gyre and to gimble.
+0018_001054_Sad_evaluation|0018|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0018_001069_Sad_evaluation|0018|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0011_001405_Surprise_evaluation|0011|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_001404_Surprise_evaluation|0018|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0014_000720_Happy_evaluation|0014|{AE1 T DH AH1 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0019_000710_Happy_evaluation|0019|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0020_000366_Angry_evaluation|0020|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0014_001056_Sad_evaluation|0014|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0020_001411_Surprise_evaluation|0020|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0016_000357_Angry_evaluation|0016|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0019_000701_Happy_evaluation|0019|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_000009_Neutral_evaluation|0011|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0016_000014_Neutral_evaluation|0016|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_001416_Surprise_evaluation|0017|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0018_000368_Angry_evaluation|0018|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0014_001409_Surprise_evaluation|0014|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0020_000352_Angry_evaluation|0020|{AY1 D IH1 D G OW1 AH0 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0018_000704_Happy_evaluation|0018|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0011_001401_Surprise_evaluation|0011|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_000369_Angry_evaluation|0017|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0018_000361_Angry_evaluation|0018|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0015_001405_Surprise_evaluation|0015|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0012_001053_Sad_evaluation|0012|{DH AH0 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0018_001053_Sad_evaluation|0018|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0014_000706_Happy_evaluation|0014|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0011_001056_Sad_evaluation|0011|{AE1 N D IY0 HH W AH1 T S DH AH0 G AY1 T UW1 G IH1 M B AH0 L}|Andy what's the guy to gimble.
+0013_000715_Happy_evaluation|0013|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0016_000003_Neutral_evaluation|0016|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0018_001406_Surprise_evaluation|0018|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0018_000366_Angry_evaluation|0018|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0013_000010_Neutral_evaluation|0013|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0011_001055_Sad_evaluation|0011|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0019_000713_Happy_evaluation|0019|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0015_001420_Surprise_evaluation|0015|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0015_000361_Angry_evaluation|0015|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_001065_Sad_evaluation|0017|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0013_000351_Angry_evaluation|0013|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0018_000720_Happy_evaluation|0018|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0019_000355_Angry_evaluation|0019|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0020_001418_Surprise_evaluation|0020|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0011_000018_Neutral_evaluation|0011|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0020_001068_Sad_evaluation|0020|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_001054_Sad_evaluation|0019|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_000351_Angry_evaluation|0012|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_000016_Neutral_evaluation|0017|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0017_000354_Angry_evaluation|0017|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0014_001052_Sad_evaluation|0014|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0011_001417_Surprise_evaluation|0011|{HH W AY1 HH AE1 Z DH IY0 EH1 G N AA1 T B R OW1 K AH0 N}|Why has the egg not broken?
+0012_000370_Angry_evaluation|0012|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0012_001056_Sad_evaluation|0012|{AE1 N D W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|And what's the gyre and to gimble.
+0012_001414_Surprise_evaluation|0012|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_001406_Surprise_evaluation|0011|{AE1 N D IY0 HH W AH1 T S DH AH0 G AY1 T AH0 DH IY0 G IH1 M B AH0 L}|Andy what's the guy to the gimble.
+0011_001070_Sad_evaluation|0011|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0012_000714_Happy_evaluation|0012|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0013_000719_Happy_evaluation|0013|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0018_000012_Neutral_evaluation|0018|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0020_001057_Sad_evaluation|0020|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0016_001410_Surprise_evaluation|0016|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_000353_Angry_evaluation|0016|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0013_001064_Sad_evaluation|0013|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001410_Surprise_evaluation|0020|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0015_001418_Surprise_evaluation|0015|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_001408_Surprise_evaluation|0019|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0013_001051_Sad_evaluation|0013|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0012_000353_Angry_evaluation|0012|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0020_000714_Happy_evaluation|0020|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0016_000004_Neutral_evaluation|0016|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH OW1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0011_001069_Sad_evaluation|0011|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0020_000360_Angry_evaluation|0020|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0013_001414_Surprise_evaluation|0013|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_001419_Surprise_evaluation|0015|{AE1 T DH AH0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0013_001417_Surprise_evaluation|0013|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_000703_Happy_evaluation|0020|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0013_000704_Happy_evaluation|0013|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0020_001054_Sad_evaluation|0020|{DH EY1 W EH1 N T AH1 P T UW1 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0018_000006_Neutral_evaluation|0018|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0019_000012_Neutral_evaluation|0019|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_000011_Neutral_evaluation|0014|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0019_000711_Happy_evaluation|0019|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_000356_Angry_evaluation|0017|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0012_001413_Surprise_evaluation|0012|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0012_000016_Neutral_evaluation|0012|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0013_000370_Angry_evaluation|0013|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0019_001407_Surprise_evaluation|0019|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0013_000008_Neutral_evaluation|0013|{DH AE1 T W AO1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_000714_Happy_evaluation|0016|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0016_000706_Happy_evaluation|0016|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G AE1 M B AH0 L}|Andy what's the gyre and to gamble.
+0011_000352_Angry_evaluation|0011|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0017_000705_Happy_evaluation|0017|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0019_000712_Happy_evaluation|0019|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0011_000701_Happy_evaluation|0011|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0016_000704_Happy_evaluation|0016|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0016_000358_Angry_evaluation|0016|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0015_001053_Sad_evaluation|0015|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0017_000715_Happy_evaluation|0017|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0019_000357_Angry_evaluation|0019|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0017_001420_Surprise_evaluation|0017|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0019_000365_Angry_evaluation|0019|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0015_001054_Sad_evaluation|0015|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_000357_Angry_evaluation|0012|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0018_000011_Neutral_evaluation|0018|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0012_000719_Happy_evaluation|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0015_000020_Neutral_evaluation|0015|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0019_000369_Angry_evaluation|0019|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0012_000018_Neutral_evaluation|0012|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0013_000714_Happy_evaluation|0013|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_000010_Neutral_evaluation|0015|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0018_000369_Angry_evaluation|0018|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0015_001410_Surprise_evaluation|0015|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_000703_Happy_evaluation|0014|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0020_000717_Happy_evaluation|0020|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0013_000352_Angry_evaluation|0013|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0019_000013_Neutral_evaluation|0019|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0015_000367_Angry_evaluation|0015|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0012_000020_Neutral_evaluation|0012|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0017_001060_Sad_evaluation|0017|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0020_000364_Angry_evaluation|0020|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0013_001062_Sad_evaluation|0013|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0019_000715_Happy_evaluation|0019|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_000706_Happy_evaluation|0018|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T UW1 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_001411_Surprise_evaluation|0013|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0011_000719_Happy_evaluation|0011|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0017_000011_Neutral_evaluation|0017|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0020_000362_Angry_evaluation|0020|{HH ER0 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0020_001061_Sad_evaluation|0020|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_000019_Neutral_evaluation|0014|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0017_001068_Sad_evaluation|0017|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F ER1 DH ER0}|Then sadly it is much further.
+0016_000719_Happy_evaluation|0016|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0015_000018_Neutral_evaluation|0015|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0018_000004_Neutral_evaluation|0018|{DH EY1 W EH1 N T AH1 P T UW1 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0015_001413_Surprise_evaluation|0015|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0017_001059_Sad_evaluation|0017|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0011_000712_Happy_evaluation|0011|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0015_000019_Neutral_evaluation|0015|{AE1 T DH AH0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0018_000009_Neutral_evaluation|0018|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0019_001417_Surprise_evaluation|0019|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0015_000006_Neutral_evaluation|0015|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T UW1 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0018_000363_Angry_evaluation|0018|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0016_000001_Neutral_evaluation|0016|{DH AH0 N AY1 N EH1 G Z AY1 K IY1 P}|The nine eggs, I keep.
+0012_000717_Happy_evaluation|0012|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0012_000359_Angry_evaluation|0012|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0013_001410_Surprise_evaluation|0013|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0015_000009_Neutral_evaluation|0015|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0015_001062_Sad_evaluation|0015|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0016_001408_Surprise_evaluation|0016|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0011_000702_Happy_evaluation|0011|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0011_000713_Happy_evaluation|0011|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_001060_Sad_evaluation|0018|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0012_001417_Surprise_evaluation|0012|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_000714_Happy_evaluation|0019|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_000707_Happy_evaluation|0015|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0014_000352_Angry_evaluation|0014|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0013_000368_Angry_evaluation|0013|{DH EH1 N S AE1 D L IY0 IH1 T IH1 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_000356_Angry_evaluation|0016|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G AE1 M B AH0 L}|Andy what's the gyre and to gamble.
+0020_000367_Angry_evaluation|0020|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0011_001061_Sad_evaluation|0011|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_000015_Neutral_evaluation|0017|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0012_001416_Surprise_evaluation|0012|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0019_000359_Angry_evaluation|0019|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0017_000017_Neutral_evaluation|0017|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0013_000713_Happy_evaluation|0013|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0014_000001_Neutral_evaluation|0014|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_000716_Happy_evaluation|0017|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0014_000360_Angry_evaluation|0014|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_001419_Surprise_evaluation|0014|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0013_000716_Happy_evaluation|0013|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0018_001058_Sad_evaluation|0018|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0012_000015_Neutral_evaluation|0012|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0013_001057_Sad_evaluation|0013|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0013_000364_Angry_evaluation|0013|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_001411_Surprise_evaluation|0011|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0020_000709_Happy_evaluation|0020|{AO1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0011_001408_Surprise_evaluation|0011|{DH AE1 T W AA1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_000362_Angry_evaluation|0016|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0012_001411_Surprise_evaluation|0012|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0012_001051_Sad_evaluation|0012|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0019_000719_Happy_evaluation|0019|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0013_001066_Sad_evaluation|0013|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0020_001067_Sad_evaluation|0020|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0016_000717_Happy_evaluation|0016|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0012_001401_Surprise_evaluation|0012|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0020_001416_Surprise_evaluation|0020|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0012_000010_Neutral_evaluation|0012|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0018_001405_Surprise_evaluation|0018|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0014_000366_Angry_evaluation|0014|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0014_001057_Sad_evaluation|0014|{AH0 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0018_000351_Angry_evaluation|0018|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_001413_Surprise_evaluation|0011|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0015_000005_Neutral_evaluation|0015|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_001059_Sad_evaluation|0018|{AO1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0015_000704_Happy_evaluation|0015|{DH EY1 W EH1 N T AH1 P T UW1 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_000013_Neutral_evaluation|0013|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0020_000712_Happy_evaluation|0020|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0015_001064_Sad_evaluation|0015|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001060_Sad_evaluation|0020|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0020_001412_Surprise_evaluation|0020|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0013_001052_Sad_evaluation|0013|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0019_000010_Neutral_evaluation|0019|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0019_000706_Happy_evaluation|0019|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0017_000368_Angry_evaluation|0017|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F ER1 DH ER0}|Then sadly it is much further.
+0020_001066_Sad_evaluation|0020|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0018_000719_Happy_evaluation|0018|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0012_000013_Neutral_evaluation|0012|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0017_001062_Sad_evaluation|0017|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_001412_Surprise_evaluation|0014|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0011_000006_Neutral_evaluation|0011|{AE1 N D IY0 HH W AH1 T S DH AH1 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0018_001413_Surprise_evaluation|0018|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0017_001058_Sad_evaluation|0017|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0020_000355_Angry_evaluation|0020|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0016_000367_Angry_evaluation|0016|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_001053_Sad_evaluation|0020|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0011_000708_Happy_evaluation|0011|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0018_000712_Happy_evaluation|0018|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0011_000015_Neutral_evaluation|0011|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0019_000362_Angry_evaluation|0019|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0017_000709_Happy_evaluation|0017|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_001063_Sad_evaluation|0014|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0016_000361_Angry_evaluation|0016|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_000013_Neutral_evaluation|0014|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0020_000005_Neutral_evaluation|0020|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0016_000360_Angry_evaluation|0016|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0019_000002_Neutral_evaluation|0019|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0016_000368_Angry_evaluation|0016|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0011_000008_Neutral_evaluation|0011|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0017_000365_Angry_evaluation|0017|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0017_000370_Angry_evaluation|0017|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0018_001051_Sad_evaluation|0018|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_000014_Neutral_evaluation|0017|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0019_001057_Sad_evaluation|0019|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0017_001064_Sad_evaluation|0017|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0012_001057_Sad_evaluation|0012|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0012_000012_Neutral_evaluation|0012|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0011_001064_Sad_evaluation|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_001063_Sad_evaluation|0017|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_000713_Happy_evaluation|0018|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0013_001409_Surprise_evaluation|0013|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_000711_Happy_evaluation|0014|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_000359_Angry_evaluation|0018|{AO1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0020_001401_Surprise_evaluation|0020|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0015_000002_Neutral_evaluation|0015|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0015_000016_Neutral_evaluation|0015|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0017_000360_Angry_evaluation|0017|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_001061_Sad_evaluation|0016|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_001064_Sad_evaluation|0014|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_000705_Happy_evaluation|0020|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0016_001058_Sad_evaluation|0016|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0017_001418_Surprise_evaluation|0017|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F ER1 DH ER0}|Then sadly it is much further.
+0013_000019_Neutral_evaluation|0013|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0019_000014_Neutral_evaluation|0019|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0018_000010_Neutral_evaluation|0018|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0018_000002_Neutral_evaluation|0018|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0012_001410_Surprise_evaluation|0012|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0019_001416_Surprise_evaluation|0019|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000370_Angry_evaluation|0011|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0012_000007_Neutral_evaluation|0012|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0013_000366_Angry_evaluation|0013|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000703_Happy_evaluation|0011|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0015_000354_Angry_evaluation|0015|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0015_000356_Angry_evaluation|0015|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0017_000351_Angry_evaluation|0017|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0019_000366_Angry_evaluation|0019|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0020_001064_Sad_evaluation|0020|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_001060_Sad_evaluation|0011|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_000720_Happy_evaluation|0016|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0019_001403_Surprise_evaluation|0019|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0019_001065_Sad_evaluation|0019|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0015_000357_Angry_evaluation|0015|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0018_000015_Neutral_evaluation|0018|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0016_001403_Surprise_evaluation|0016|{DH AH0 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0014_000363_Angry_evaluation|0014|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_001066_Sad_evaluation|0018|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000360_Angry_evaluation|0011|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0012_000003_Neutral_evaluation|0012|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0013_000012_Neutral_evaluation|0013|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0013_000014_Neutral_evaluation|0013|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_001070_Sad_evaluation|0017|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0016_001420_Surprise_evaluation|0016|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0018_001416_Surprise_evaluation|0018|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0016_000351_Angry_evaluation|0016|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0018_001403_Surprise_evaluation|0018|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0019_000354_Angry_evaluation|0019|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0014_000015_Neutral_evaluation|0014|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0013_000006_Neutral_evaluation|0013|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T UW1 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0014_000370_Angry_evaluation|0014|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0013_000354_Angry_evaluation|0013|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0015_001067_Sad_evaluation|0015|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0016_000011_Neutral_evaluation|0016|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_000358_Angry_evaluation|0018|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0018_001418_Surprise_evaluation|0018|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_001413_Surprise_evaluation|0019|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_000718_Happy_evaluation|0018|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_000712_Happy_evaluation|0016|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0017_000363_Angry_evaluation|0017|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0017_001403_Surprise_evaluation|0017|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T IH0 Y UW1}|That I owe my thanks to you.
+0013_001420_Surprise_evaluation|0013|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0020_000706_Happy_evaluation|0020|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0011_000014_Neutral_evaluation|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_001408_Surprise_evaluation|0017|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0017_000004_Neutral_evaluation|0017|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0018_001402_Surprise_evaluation|0018|{AY1 D IH1 D G OW1 AH0 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0019_000363_Angry_evaluation|0019|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0014_000364_Angry_evaluation|0014|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_000367_Angry_evaluation|0011|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_001405_Surprise_evaluation|0019|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0011_001416_Surprise_evaluation|0011|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000357_Angry_evaluation|0011|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0019_000006_Neutral_evaluation|0019|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T UW1 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0012_000001_Neutral_evaluation|0012|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0019_000353_Angry_evaluation|0019|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T IH0 Y UW1}|That I owe my thanks to you.
+0015_000710_Happy_evaluation|0015|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0017_001055_Sad_evaluation|0017|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0012_001058_Sad_evaluation|0012|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0018_000716_Happy_evaluation|0018|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0017_001061_Sad_evaluation|0017|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_000714_Happy_evaluation|0018|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0012_000705_Happy_evaluation|0012|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0016_000007_Neutral_evaluation|0016|{AY1 M AE1 Z B AE1 D AE1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0018_000708_Happy_evaluation|0018|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_001053_Sad_evaluation|0019|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0012_001067_Sad_evaluation|0012|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0014_000362_Angry_evaluation|0014|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0020_000004_Neutral_evaluation|0020|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0017_000018_Neutral_evaluation|0017|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F ER1 DH ER0}|Then sadly it is much further.
+0016_000005_Neutral_evaluation|0016|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_001417_Surprise_evaluation|0018|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0011_000363_Angry_evaluation|0011|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0016_000708_Happy_evaluation|0016|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_000005_Neutral_evaluation|0019|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0015_000001_Neutral_evaluation|0015|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0020_001069_Sad_evaluation|0020|{AE1 T DH AH0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0012_000713_Happy_evaluation|0012|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0014_001416_Surprise_evaluation|0014|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0016_001055_Sad_evaluation|0016|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0011_001407_Surprise_evaluation|0011|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0012_000004_Neutral_evaluation|0012|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0016_000352_Angry_evaluation|0016|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0012_001070_Sad_evaluation|0012|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0014_000012_Neutral_evaluation|0014|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0015_000709_Happy_evaluation|0015|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0020_000013_Neutral_evaluation|0020|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0014_000369_Angry_evaluation|0014|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0018_000362_Angry_evaluation|0018|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0011_000704_Happy_evaluation|0011|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0017_001419_Surprise_evaluation|0017|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0013_001058_Sad_evaluation|0013|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0012_001409_Surprise_evaluation|0012|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0012_001405_Surprise_evaluation|0012|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0013_000007_Neutral_evaluation|0013|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0018_000365_Angry_evaluation|0018|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0016_000716_Happy_evaluation|0016|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0017_001406_Surprise_evaluation|0017|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0012_001407_Surprise_evaluation|0012|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0016_000017_Neutral_evaluation|0016|{W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_000010_Neutral_evaluation|0020|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_000716_Happy_evaluation|0014|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0016_001064_Sad_evaluation|0016|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_001069_Sad_evaluation|0017|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0017_001057_Sad_evaluation|0017|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0020_000370_Angry_evaluation|0020|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0014_001066_Sad_evaluation|0014|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_000005_Neutral_evaluation|0011|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000370_Angry_evaluation|0018|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0013_000358_Angry_evaluation|0013|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0017_000711_Happy_evaluation|0017|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0015_001059_Sad_evaluation|0015|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0012_000711_Happy_evaluation|0012|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0019_000717_Happy_evaluation|0019|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_001059_Sad_evaluation|0019|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_001062_Sad_evaluation|0014|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_000714_Happy_evaluation|0014|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001419_Surprise_evaluation|0020|{AE1 T DH AH0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0017_001410_Surprise_evaluation|0017|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0012_000708_Happy_evaluation|0012|{DH AE1 T W AA1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0015_000366_Angry_evaluation|0015|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0012_001059_Sad_evaluation|0012|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0013_000365_Angry_evaluation|0013|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_001068_Sad_evaluation|0018|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0018_001410_Surprise_evaluation|0018|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_001051_Sad_evaluation|0016|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0020_000711_Happy_evaluation|0020|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0016_001053_Sad_evaluation|0016|{DH AH0 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0012_000701_Happy_evaluation|0012|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_000716_Happy_evaluation|0011|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0013_000702_Happy_evaluation|0013|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0011_000017_Neutral_evaluation|0011|{W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0011_000001_Neutral_evaluation|0011|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_000355_Angry_evaluation|0017|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0014_001069_Sad_evaluation|0014|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0016_001407_Surprise_evaluation|0016|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0014_000017_Neutral_evaluation|0014|{W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0014_000701_Happy_evaluation|0014|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_001067_Sad_evaluation|0011|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0016_000705_Happy_evaluation|0016|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000354_Angry_evaluation|0018|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_000720_Happy_evaluation|0013|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0014_001070_Sad_evaluation|0014|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0014_000010_Neutral_evaluation|0014|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0013_001055_Sad_evaluation|0013|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0015_001407_Surprise_evaluation|0015|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0020_000001_Neutral_evaluation|0020|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0015_000713_Happy_evaluation|0015|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0013_001407_Surprise_evaluation|0013|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0011_000368_Angry_evaluation|0011|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0014_001401_Surprise_evaluation|0014|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0015_000712_Happy_evaluation|0015|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0016_000702_Happy_evaluation|0016|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0015_000703_Happy_evaluation|0015|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0015_001406_Surprise_evaluation|0015|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0019_001051_Sad_evaluation|0019|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0014_000717_Happy_evaluation|0014|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0011_001415_Surprise_evaluation|0011|{P UW1 R T AA1 M IH0 Z N AW1 D EH1 D}|Poor Tom is now dead!
+0011_000718_Happy_evaluation|0011|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0012_000009_Neutral_evaluation|0012|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_001065_Sad_evaluation|0014|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_000705_Happy_evaluation|0018|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0017_000357_Angry_evaluation|0017|{AY1 M AE1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0014_000715_Happy_evaluation|0014|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0020_000012_Neutral_evaluation|0020|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0012_000706_Happy_evaluation|0012|{AE1 N D IY0 W AH1 T S DH IY0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0017_000019_Neutral_evaluation|0017|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0019_001414_Surprise_evaluation|0019|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0013_001419_Surprise_evaluation|0013|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0014_000016_Neutral_evaluation|0014|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R EY1 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0017_001051_Sad_evaluation|0017|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_001052_Sad_evaluation|0017|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0017_000362_Angry_evaluation|0017|{HH ER0 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_000705_Happy_evaluation|0014|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0015_000360_Angry_evaluation|0015|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0016_001070_Sad_evaluation|0016|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots of a bush of a grass.
+0020_000011_Neutral_evaluation|0020|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_001055_Sad_evaluation|0018|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0014_001417_Surprise_evaluation|0014|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0014_000002_Neutral_evaluation|0014|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0013_000018_Neutral_evaluation|0013|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_000704_Happy_evaluation|0019|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_001064_Sad_evaluation|0012|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001408_Surprise_evaluation|0020|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0020_001405_Surprise_evaluation|0020|{K L IH1 R DH AE1 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0017_000707_Happy_evaluation|0017|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0013_001405_Surprise_evaluation|0013|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000357_Angry_evaluation|0018|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0020_001402_Surprise_evaluation|0020|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0011_000010_Neutral_evaluation|0011|{EY1 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0012_000704_Happy_evaluation|0012|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0020_000014_Neutral_evaluation|0020|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0013_001416_Surprise_evaluation|0013|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0011_001057_Sad_evaluation|0011|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0020_000003_Neutral_evaluation|0020|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0019_000707_Happy_evaluation|0019|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY1}|I'm as bad as I can be.
+0020_000715_Happy_evaluation|0020|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0018_000005_Neutral_evaluation|0018|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0015_001057_Sad_evaluation|0015|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0013_000360_Angry_evaluation|0013|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0020_000719_Happy_evaluation|0020|{AE1 T DH AH0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0014_001067_Sad_evaluation|0014|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0016_001412_Surprise_evaluation|0016|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0018_000007_Neutral_evaluation|0018|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0018_000707_Happy_evaluation|0018|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0016_001406_Surprise_evaluation|0016|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G AE1 M B AH0 L}|Andy what's the gyre and to gamble.
+0018_001407_Surprise_evaluation|0018|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0018_000715_Happy_evaluation|0018|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_000017_Neutral_evaluation|0018|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_000018_Neutral_evaluation|0019|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0020_001404_Surprise_evaluation|0020|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0012_001415_Surprise_evaluation|0012|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0019_001058_Sad_evaluation|0019|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0015_000708_Happy_evaluation|0015|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0019_001420_Surprise_evaluation|0019|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0015_000714_Happy_evaluation|0015|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_000012_Neutral_evaluation|0015|{HH ER0 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0013_000020_Neutral_evaluation|0013|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0019_000009_Neutral_evaluation|0019|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0016_001416_Surprise_evaluation|0016|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0016_001056_Sad_evaluation|0016|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G AE1 M B AH0 L}|Andy what's the gyre and to gamble.
+0012_000710_Happy_evaluation|0012|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0017_001067_Sad_evaluation|0017|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0013_001061_Sad_evaluation|0013|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_000702_Happy_evaluation|0018|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0012_000006_Neutral_evaluation|0012|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0015_000015_Neutral_evaluation|0015|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_000364_Angry_evaluation|0018|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0013_001068_Sad_evaluation|0013|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0015_000014_Neutral_evaluation|0015|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0016_001054_Sad_evaluation|0016|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0016_001065_Sad_evaluation|0016|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0012_000365_Angry_evaluation|0012|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0018_001401_Surprise_evaluation|0018|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_001065_Sad_evaluation|0011|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0013_000707_Happy_evaluation|0013|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0013_001413_Surprise_evaluation|0013|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0012_000355_Angry_evaluation|0012|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0020_000708_Happy_evaluation|0020|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0017_001413_Surprise_evaluation|0017|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0013_000357_Angry_evaluation|0013|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AE1 N B IY0}|I'm as bad as I can be.
+0016_000370_Angry_evaluation|0016|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0011_000709_Happy_evaluation|0011|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0012_000360_Angry_evaluation|0012|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_000007_Neutral_evaluation|0014|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY0}|I'm as bad as I can be.
+0012_000354_Angry_evaluation|0012|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0015_000351_Angry_evaluation|0015|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_000011_Neutral_evaluation|0011|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0011_001419_Surprise_evaluation|0011|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0012_000019_Neutral_evaluation|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0017_000358_Angry_evaluation|0017|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0015_001056_Sad_evaluation|0015|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0012_000362_Angry_evaluation|0012|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0017_000364_Angry_evaluation|0017|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0017_000704_Happy_evaluation|0017|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0017_000352_Angry_evaluation|0017|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0020_001409_Surprise_evaluation|0020|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0013_000706_Happy_evaluation|0013|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0012_001404_Surprise_evaluation|0012|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0020_000361_Angry_evaluation|0020|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_001052_Sad_evaluation|0018|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0019_000004_Neutral_evaluation|0019|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0017_000006_Neutral_evaluation|0017|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0020_000363_Angry_evaluation|0020|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0016_001060_Sad_evaluation|0016|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0017_001056_Sad_evaluation|0017|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0020_000015_Neutral_evaluation|0020|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0013_000363_Angry_evaluation|0013|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0018_001064_Sad_evaluation|0018|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_000355_Angry_evaluation|0011|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0017_000719_Happy_evaluation|0017|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0018_000001_Neutral_evaluation|0018|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0020_001065_Sad_evaluation|0020|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|Poor Tom now is dead!
+0015_001415_Surprise_evaluation|0015|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0013_000362_Angry_evaluation|0013|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0014_001420_Surprise_evaluation|0014|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0017_000002_Neutral_evaluation|0017|{AY1 D IH0 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0020_000017_Neutral_evaluation|0020|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0014_000704_Happy_evaluation|0014|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0014_000709_Happy_evaluation|0014|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0011_000358_Angry_evaluation|0011|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0013_001069_Sad_evaluation|0013|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0014_000009_Neutral_evaluation|0014|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0012_001406_Surprise_evaluation|0012|{AE1 N D W AH1 T S DH IY0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|And what's the gyre and to gimble.
+0014_001053_Sad_evaluation|0014|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0011_001066_Sad_evaluation|0011|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0016_000008_Neutral_evaluation|0016|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_001411_Surprise_evaluation|0016|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_001401_Surprise_evaluation|0017|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_000351_Angry_evaluation|0011|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0017_001417_Surprise_evaluation|0017|{W AY1 HH AH0 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0014_000718_Happy_evaluation|0014|{DH EH1 N S AE1 D L IY0 IH1 T IH1 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_001417_Surprise_evaluation|0016|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0013_001060_Sad_evaluation|0013|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0014_000719_Happy_evaluation|0014|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|At the end of four.
+0012_000368_Angry_evaluation|0012|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_000702_Happy_evaluation|0019|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0015_000011_Neutral_evaluation|0015|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0018_001408_Surprise_evaluation|0018|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_000713_Happy_evaluation|0016|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_001066_Sad_evaluation|0019|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F R ER0 AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0012_001068_Sad_evaluation|0012|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0016_001067_Sad_evaluation|0016|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0015_000358_Angry_evaluation|0015|{DH AE1 T W AH1 Z HH IH1 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0017_000712_Happy_evaluation|0017|{HH ER1 SH UW1 Z W ER1 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0018_001414_Surprise_evaluation|0018|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_001414_Surprise_evaluation|0015|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0015_001070_Sad_evaluation|0015|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0013_001070_Sad_evaluation|0013|{AE1 T DH AH0 R UW1 T S AH0 V AH0 B UH1 SH AH0 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0016_000364_Angry_evaluation|0016|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0011_000003_Neutral_evaluation|0011|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0020_001051_Sad_evaluation|0020|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0018_000360_Angry_evaluation|0018|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0011_000002_Neutral_evaluation|0011|{AY1 D IH0 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0018_000003_Neutral_evaluation|0018|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0017_000003_Neutral_evaluation|0017|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0016_001401_Surprise_evaluation|0016|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0014_000351_Angry_evaluation|0014|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_000365_Angry_evaluation|0011|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0017_000359_Angry_evaluation|0017|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0013_001403_Surprise_evaluation|0013|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0011_001052_Sad_evaluation|0011|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many many prisoners.
+0015_000365_Angry_evaluation|0015|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0019_000015_Neutral_evaluation|0019|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0015_000705_Happy_evaluation|0015|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0013_000355_Angry_evaluation|0013|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0020_000713_Happy_evaluation|0020|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_000709_Happy_evaluation|0019|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH1 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0015_000711_Happy_evaluation|0015|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0013_000359_Angry_evaluation|0013|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_000006_Neutral_evaluation|0014|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_000708_Happy_evaluation|0013|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0011_000361_Angry_evaluation|0011|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0016_001418_Surprise_evaluation|0016|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0019_000352_Angry_evaluation|0019|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0013_000718_Happy_evaluation|0013|{DH EH1 N S AE1 D L IY0 IH0 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0012_000366_Angry_evaluation|0012|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0018_000367_Angry_evaluation|0018|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0019_000703_Happy_evaluation|0019|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0014_001059_Sad_evaluation|0014|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH1 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0019_000001_Neutral_evaluation|0019|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0011_000353_Angry_evaluation|0011|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0017_000702_Happy_evaluation|0017|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0020_000002_Neutral_evaluation|0020|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0018_001061_Sad_evaluation|0018|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0011_000369_Angry_evaluation|0011|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|At the end of four.
+0014_000702_Happy_evaluation|0014|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0017_000703_Happy_evaluation|0017|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0014_001413_Surprise_evaluation|0014|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P ER0 IH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_001412_Surprise_evaluation|0019|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0015_001409_Surprise_evaluation|0015|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0011_000717_Happy_evaluation|0011|{HH W AY1 HH AE1 Z DH IH1 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0015_001063_Sad_evaluation|0015|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0019_001061_Sad_evaluation|0019|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0014_001402_Surprise_evaluation|0014|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0011_001402_Surprise_evaluation|0011|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z N ER0 Z}|I did go, and made many prisoners.
+0015_000702_Happy_evaluation|0015|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0016_001413_Surprise_evaluation|0016|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0020_001414_Surprise_evaluation|0020|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0012_000703_Happy_evaluation|0012|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T AH0 Y UW1}|That I owe my thanks to you.
+0016_000365_Angry_evaluation|0016|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0020_000020_Neutral_evaluation|0020|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0018_000701_Happy_evaluation|0018|{DH AH0 N AY1 N DH AH0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0015_001403_Surprise_evaluation|0015|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0019_000011_Neutral_evaluation|0019|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0013_000367_Angry_evaluation|0013|{HH W AY1 IH1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why is this egg not broken?
+0013_000701_Happy_evaluation|0013|{DH AH0 N AY1 N DH IY0 EH1 G Z AY1 K IY1 P}|The nine the eggs, I keep.
+0013_001412_Surprise_evaluation|0013|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH AH0 Z}|Her shoes were like fishes.
+0012_000716_Happy_evaluation|0012|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0014_000014_Neutral_evaluation|0014|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N T HH ER1 T M IY1}|Annie please please don't hurt me!
+0020_001058_Sad_evaluation|0020|{DH AE1 T W AO1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0011_001062_Sad_evaluation|0011|{HH ER1 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0017_000009_Neutral_evaluation|0017|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0015_000017_Neutral_evaluation|0015|{HH W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0018_000016_Neutral_evaluation|0018|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|Mister share man, I move for a division.
+0015_000363_Angry_evaluation|0015|{AY1 HH AE1 V spn AO1 L OW1 V ER0 G OW1 T AO1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|I have bunburyed all over goat on two separate occasions.
+0015_000720_Happy_evaluation|0015|{AE1 T DH AH0 R UW1 T S AH1 V AH0 B UH1 SH AH1 V AH0 G R AE1 S}|At the roots-of a bush of a grass.
+0020_000718_Happy_evaluation|0020|{DH EH1 N S AE1 D L IY0 IH1 T IH1 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0014_000355_Angry_evaluation|0014|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0019_001409_Surprise_evaluation|0019|{AA1 N DH AH0 T W EH1 N T IY0 S EH1 K AH0 N AH0 V L AE1 S M AA1 R CH}|On the twenty second of last march.
+0020_000354_Angry_evaluation|0020|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0013_001067_Sad_evaluation|0013|{W AY1 HH AE1 Z DH IH0 S EH1 G N AA1 T B R OW1 K AH0 N}|Why has this egg not broken?
+0020_000006_Neutral_evaluation|0020|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T UW1 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0017_001402_Surprise_evaluation|0017|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|I did go, and made many prisoners.
+0018_001056_Sad_evaluation|0018|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0013_001408_Surprise_evaluation|0013|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AO1 T}|That was his chief thought.
+0016_001404_Surprise_evaluation|0016|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N AH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0017_001405_Surprise_evaluation|0017|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0018_000355_Angry_evaluation|0018|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0013_000711_Happy_evaluation|0013|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0017_001407_Surprise_evaluation|0017|{AY1 M EH1 Z B AE1 D EH1 Z AY1 K AH0 N B IY1}|I'm as bad as I can be.
+0011_000356_Angry_evaluation|0011|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 DH AH0 G IH1 M B AH0 L}|Andy what's the gyre and to the gimble.
+0013_000705_Happy_evaluation|0013|{K L IH1 R DH AH0 N K L IH1 R W AO1 T ER0}|Clear than clear water!
+0014_001411_Surprise_evaluation|0014|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0015_001412_Surprise_evaluation|0015|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|Her shoes were like fishes.
+0019_001418_Surprise_evaluation|0019|{DH EH1 N S AE1 D L IY0 IH1 T IH0 Z M AH1 CH F AA1 R DH ER0}|Then sadly it is much farther.
+0017_001415_Surprise_evaluation|0017|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
+0012_000356_Angry_evaluation|0012|{AE1 N D IY0 W AH1 T S DH AH0 JH AY1 R AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the gyre and to gimble.
+0017_001053_Sad_evaluation|0017|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|That I owe my thanks to you.
+0011_001059_Sad_evaluation|0011|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|On the twenty second of last march.
+0014_001061_Sad_evaluation|0014|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0011_000706_Happy_evaluation|0011|{AE1 N D IY0 HH W AH1 T S DH AH0 G AY1 AE1 N D T AH0 G IH1 M B AH0 L}|Andy what's the guy and to gimble.
+0014_000710_Happy_evaluation|0014|{AH0 N AO1 SH AH0 S D R AE1 F T}|A nauseous draught.
+0015_001411_Surprise_evaluation|0015|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|Chapter ten a warm welcome.
+0013_001054_Sad_evaluation|0013|{DH EY1 W EH1 N T AH1 P T AH0 DH AH0 D AA1 R K M AE1 S JH AA1 B HH AE1 D P OY1 N T IH0 D AW1 T}|They went up to the dark mass job had pointed out.
+0016_001414_Surprise_evaluation|0016|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|Annie please please don't hurt me!
+0018_001415_Surprise_evaluation|0018|{P UW1 R T AA1 M N AW1 IH0 Z D EH1 D}|Poor Tom now is dead!
