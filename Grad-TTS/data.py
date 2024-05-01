@@ -116,7 +116,7 @@ class TextMelBatchCollate(object):
 class TextMelSpeakerDataset(torch.utils.data.Dataset):
     def __init__(self, filelist_path, preprocessed_dir, ed_name, add_blank=True,
                  n_fft=1024, n_mels=80, sample_rate=22050,
-                 hop_length=256, win_length=1024, f_min=0., f_max=8000, dataset="esd", vocoder="hifigan"):
+                 hop_length=256, win_length=1024, f_min=0., f_max=8000, dataset="esd", vocoder="hifigan", ed_name_list=None):
         super().__init__()
         self.filelist = parse_filelist(filelist_path, split_char='|')
         self.preprocessed_dir = preprocessed_dir
@@ -135,6 +135,7 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
         
         self.dataset = dataset
         self.vocoder = vocoder
+        self.ed_name_list = ed_name_list
         
     def get_pair(self, filepath_and_text):
         filepath, spk, text = (
@@ -182,11 +183,27 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
         return duration
     
     def get_ed(self, filepath):
-        if self.dataset=="esd":
-            path = self.preprocessed_dir + f"dnnEDdir/{self.ed_name}/{filepath}_HED_{self.ed_name}.npy"
-        elif self.dataset=="msp":
-            path = self.preprocessed_dir + f"ED/{filepath}_ED_OpenSMILE_msp.npy"
-        ed = torch.Tensor(np.load(path))
+        if "relative-attributes" in self.ed_name:
+            en = self.ed_name.split("_")[1]
+        else:
+            en = self.ed_name.split("_")[0]
+        if "-" in en:
+            ed_list = []
+            for en, ed_name in enumerate(self.ed_name_list):
+                if self.dataset=="esd":
+                    path = self.preprocessed_dir + f"dnnEDdir/{ed_name}/{filepath}_HED_{ed_name}.npy"
+                elif self.dataset=="msp":
+                    path = self.preprocessed_dir + f"ED/{filepath}_ED_OpenSMILE_msp.npy"
+                ed = np.load(path)
+                ed_list += [ed[en*4:(en+1)*4]]
+            ed = np.concatenate(ed_list, axis=0)
+        else:
+            if self.dataset=="esd":
+                path = self.preprocessed_dir + f"dnnEDdir/{self.ed_name}/{filepath}_HED_{self.ed_name}.npy"
+            elif self.dataset=="msp":
+                path = self.preprocessed_dir + f"ED/{filepath}_ED_OpenSMILE_msp.npy"
+            ed = np.load(path)
+        ed = torch.Tensor(ed)
         return ed.T
     
     def get_speaker_embedding(self, filepath):
