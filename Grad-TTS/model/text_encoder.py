@@ -292,7 +292,7 @@ class Encoder(BaseModule):
 class TextEncoder(BaseModule):
     def __init__(self, n_vocab, n_feats, n_channels, filter_channels, 
                  filter_channels_dp, n_heads, n_layers, kernel_size, 
-                 p_dropout, window_size=None, spk_emb_dim=64, n_spks=1, ifRoPE=False):
+                 p_dropout, window_size=None, spk_emb_dim=64, n_spks=1, ifRoPE=False, ifmsemotts=False):
         super(TextEncoder, self).__init__()
         self.n_vocab = n_vocab
         self.n_feats = n_feats
@@ -319,12 +319,41 @@ class TextEncoder(BaseModule):
         self.proj_m = torch.nn.Conv1d(n_channels + (spk_emb_dim if n_spks > 1 else 0), n_feats, 1)
         self.proj_w = DurationPredictor(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels_dp, 
                                         kernel_size, p_dropout)
-        self.ed_embedding = torch.nn.Sequential(
-            torch.nn.Linear(12, n_channels), 
-            torch.nn.Tanh()
-        )
+        self.ifmsemotts = ifmsemotts
+        if self.ifmsemotts:
+            mel_num = n_feats
+            self.text_variation_encoder = nn.Sequential(
+                Transpose(2,1),
+                nn.Conv1d(n_channels, n_channels, 5, 1, 2),
+                nn.ReLU(),
+                Transpose(2,1),
+                nn.LayerNorm(n_channels),
+                nn.Linear(n_channels, n_channels),
+                nn.ReLU(),
+                nn.Linear(n_channels, n_channels),
+            )
+            self.mel_variation_encoder = nn.Sequential(
+                Transpose(2,1),
+                nn.Conv1d(mel_num, n_channels//2, 5, 1, 2),
+                nn.Conv1d(n_channels//2, n_channels, 5, 1, 2),
+                Transpose(2,1),
+                nn.LayerNorm(n_channels),
+                nn.Dropout(),
+                Mean(1),
+            )
+            self.ed_embedding = torch.nn.Sequential(
+                torch.nn.Linear(1, n_channels), 
+                torch.nn.Tanh()
+            )
+        else:
+            self.ed_embedding = torch.nn.Sequential(
+                torch.nn.Linear(12, n_channels), 
+                torch.nn.Tanh()
+            )
 
-    def forward(self, x, x_lengths, spk=None, ed=None):
+    def forward(self, x, x_lengths, spk=None, ed=None, additionals=[]):
+        # additionals: emotion_label
+            
         x = self.emb(x) * math.sqrt(self.n_channels)
         x = torch.transpose(x, 1, -1)
         x_mask = torch.unsqueeze(sequence_mask(x_lengths, x.size(2)), 1).to(x.dtype)
@@ -335,8 +364,13 @@ class TextEncoder(BaseModule):
         x = self.encoder(x, x_mask)
         
         if ed is not None:
-            # Add hierarchical emotion distribution embedding
-            x = x + self.ed_embedding(ed).transpose(-1,-2)
+            if self.ifmsemotts:
+                emotion_label, 
+                # MsEmoTTS
+                # self.ed_embedding(ed[])
+            else:
+                # Add hierarchical emotion distribution embedding
+                x = x + self.ed_embedding(ed).transpose(-1,-2)
         
         mu = self.proj_m(x) * x_mask
 

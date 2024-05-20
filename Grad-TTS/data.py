@@ -116,7 +116,7 @@ class TextMelBatchCollate(object):
 class TextMelSpeakerDataset(torch.utils.data.Dataset):
     def __init__(self, filelist_path, preprocessed_dir, ed_name, add_blank=True,
                  n_fft=1024, n_mels=80, sample_rate=22050,
-                 hop_length=256, win_length=1024, f_min=0., f_max=8000, dataset="esd", vocoder="hifigan", ed_name_list=None):
+                 hop_length=256, win_length=1024, f_min=0., f_max=8000, dataset="esd", vocoder="hifigan", ed_name_list=None, ifmsemotts=False):
         super().__init__()
         self.filelist = parse_filelist(filelist_path, split_char='|')
         self.preprocessed_dir = preprocessed_dir
@@ -136,6 +136,9 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
         self.dataset = dataset
         self.vocoder = vocoder
         self.ed_name_list = ed_name_list
+        self.emotions = ["Angry", "Happy", "Neutral", "Sad", "Surprise"]
+        self.emotions.sort()
+        self.ifmsemotts = ifmsemotts
         
     def get_pair(self, filepath_and_text):
         filepath, spk, text = (
@@ -149,12 +152,13 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
         elif self.dataset=="msp":
             spk = torch.LongTensor([int(spk)])
 
+        emo = torch.LongTensor([self.emotions.index(filepath.split("_")[2])])
         text = self.get_text(text, add_blank=self.add_blank)
         mel = self.get_mel(filepath, spk)
         duration = self.get_duration(filepath, spk)
         ed = self.get_ed(filepath)
         se = self.get_speaker_embedding(filepath)
-        return (filepath, text, mel, spk, duration, ed, se)
+        return (filepath, text, mel, spk, duration, ed, se, emo)
 
     def get_mel(self, filepath, spk):
         if self.vocoder=="hifigan":
@@ -199,7 +203,10 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
             ed = np.concatenate(ed_list, axis=0)
         else:
             if self.dataset=="esd":
-                path = self.preprocessed_dir + f"dnnEDdir/{self.ed_name}/{filepath}_HED_{self.ed_name}.npy"
+                if self.ifmsemotts:
+                    path = self.preprocessed_dir + f"dnnMSdir/{self.ed_name}/{filepath}_HED_{self.ed_name}.npy"
+                else:
+                    path = self.preprocessed_dir + f"dnnEDdir/{self.ed_name}/{filepath}_HED_{self.ed_name}.npy"
             elif self.dataset=="msp":
                 path = self.preprocessed_dir + f"ED/{filepath}_ED_OpenSMILE_msp.npy"
             ed = np.load(path)
@@ -223,8 +230,8 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
         return text_norm
 
     def __getitem__(self, index):
-        filepath, text, mel, spk, duration, ed, se = self.get_pair(self.filelist[index])
-        item = {'y': mel, 'x': text, "spk": spk, "duration": duration, "ed": ed, "se": se, "filename": filepath}
+        filepath, text, mel, spk, duration, ed, se, emo = self.get_pair(self.filelist[index])
+        item = {'y': mel, 'x': text, "spk": spk, "duration": duration, "ed": ed, "se": se, "filename": filepath, "emo": emo}
         return item
 
     def __len__(self):
@@ -253,9 +260,10 @@ class TextMelSpeakerBatchCollate(object):
         se = []
         y_lengths, x_lengths = [], []
         spk = []
+        emo = []
 
         for i, item in enumerate(batch):
-            y_, x_, spk_, duration_, ed_, se_ = item['y'], item['x'], item['spk'], item['duration'], item["ed"], item["se"]
+            y_, x_, spk_, duration_, ed_, se_, emo_ = item['y'], item['x'], item['spk'], item['duration'], item["ed"], item["se"], item["emo"]
             y_lengths.append(y_.shape[-1])
             x_lengths.append(x_.shape[-1])
             y[i, :, :y_.shape[-1]] = y_
@@ -264,9 +272,11 @@ class TextMelSpeakerBatchCollate(object):
             ed[i, :ed_.shape[-2], :] = ed_
             se += [se_]
             spk.append(spk_)
+            emo.append(emo_)
 
         y_lengths = torch.LongTensor(y_lengths)
         x_lengths = torch.LongTensor(x_lengths)
         spk = torch.cat(spk, dim=0)
+        emo = torch.cat(emo, dim=0)
         se = torch.cat(se, dim=0)
-        return {'x': x, 'x_lengths': x_lengths, 'y': y, 'y_lengths': y_lengths, 'spk': spk, 'duration': duration, "ed": ed, "se": se}
+        return {'x': x, 'x_lengths': x_lengths, 'y': y, 'y_lengths': y_lengths, 'spk': spk, 'duration': duration, "ed": ed, "se": se, "emo":emo}
