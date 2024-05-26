@@ -21,12 +21,12 @@ from model.utils import sequence_mask, generate_path, duration_loss, fix_len_com
 from matcha.models.components.flow_matching import CFM
 from matcha.models.components.decoder import TimestepEmbedding
 
-from vits.models import StochasticDurationPredictor
+# from vits.models import StochasticDurationPredictor
 
 class GradTTS(BaseModule):
     def __init__(self, n_vocab, n_spks, spk_emb_dim, n_enc_channels, filter_channels, filter_channels_dp, 
                  n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
-                 n_feats, dec_dim, beta_min, beta_max, pe_scale, decoder_type="gradtts", matcha_config=[None, None], ifsdp=False, ifzeroshot=False, ifdecodercondition=False, ifuncondition=False, decoderconditiontype="ti", ifCFG=False):
+                 n_feats, dec_dim, beta_min, beta_max, pe_scale, decoder_type="gradtts", matcha_config=[None, None], ifsdp=False, ifzeroshot=False, ifdecodercondition=False, ifuncondition=False, decoderconditiontype="ti", ifCFG=False, ifmsemotts=False):
         super(GradTTS, self).__init__()
         self.n_vocab = n_vocab
         self.n_spks = n_spks
@@ -54,7 +54,7 @@ class GradTTS(BaseModule):
             self.spk_emb = torch.nn.Embedding(n_spks, spk_emb_dim)
         self.encoder = TextEncoder(n_vocab, n_feats, n_enc_channels, 
                                    filter_channels, filter_channels_dp, n_heads, 
-                                   n_enc_layers, enc_kernel, enc_dropout, window_size, ifRoPE=ifRoPE)
+                                   n_enc_layers, enc_kernel, enc_dropout, window_size, ifRoPE=ifRoPE, ifmsemotts=ifmsemotts)
         if decoder_type=="gradtts":
             self.decoder = Diffusion(n_feats, dec_dim, n_spks, spk_emb_dim, beta_min, beta_max, pe_scale)
         elif decoder_type=="matchatts":
@@ -99,9 +99,11 @@ class GradTTS(BaseModule):
             
         self.ifuncondition = ifuncondition
         self.ifCFG = ifCFG
+        self.ifmsemotts = ifmsemotts
+        self.mse_loss = torch.nn.MSELoss()
                 
     @torch.no_grad()
-    def forward(self, x, x_lengths, n_timesteps, ed, se, temperature=1.0, stoc=False, spk=None, length_scale=1.0, gscale=2.0, random_seed=None):
+    def forward(self, x, x_lengths, n_timesteps, ed, se, temperature=1.0, stoc=False, spk=None, length_scale=1.0, gscale=2.0, random_seed=None, els=None):
         """
         Generates mel-spectrogram from text. Returns:
             1. encoder outputs
@@ -129,11 +131,11 @@ class GradTTS(BaseModule):
 
         # Get encoder_outputs `mu_x` and log-scaled token durations `logw`
         if self.ifuncondition:
-            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed=None)
+            mu_x, logw, x_mask, _ = self.encoder(x, x_lengths, spk, ed=None)
         else:
-            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed)
+            mu_x, logw, x_mask, uv = self.encoder(x, x_lengths, spk, ed, [els, None, True])
             if self.ifCFG:
-                mu_x_unc, _, _ = self.encoder(x, x_lengths, spk, ed=None)
+                mu_x_unc, _, _, _ = self.encoder(x, x_lengths, spk, ed=None)
             
         if self.ifsdp:
             logw = self.sdp(mu_x, x_mask, g=spk_embedding.unsqueeze(-1), reverse=True, noise_scale=1.0)
@@ -183,7 +185,7 @@ class GradTTS(BaseModule):
 
         return encoder_outputs, decoder_outputs, attn[:, :, :y_max_length]
 
-    def compute_loss(self, x, x_lengths, y, y_lengths, duration, ed, se, spk=None, out_size=None):
+    def compute_loss(self, x, x_lengths, y, y_lengths, duration, ed, se, spk=None, out_size=None, els=None):
         """
         Computes 3 losses:
             1. duration loss: loss between predicted token durations and those extracted by Monotinic Alignment Search (MAS).
@@ -217,9 +219,9 @@ class GradTTS(BaseModule):
         else:
             pass
         if ed_condition:
-            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed)
+            mu_x, logw, x_mask, uv = self.encoder(x, x_lengths, spk, ed, additionals=[els, y, False])
         else:
-            mu_x, logw, x_mask = self.encoder(x, x_lengths, spk, ed=None)
+            mu_x, logw, x_mask, _ = self.encoder(x, x_lengths, spk, ed=None)
             
         y_max_length = y.shape[-1]
 
@@ -244,6 +246,11 @@ class GradTTS(BaseModule):
 
             # Compute loss between predicted log-scaled durations and those obtained from MAS
             dur_loss = duration_loss(logw, logw_, x_lengths)
+            
+        if self.ifmsemotts:
+            uv_embedding, uv_prediction = uv
+            uv_loss = self.mse_loss(uv_embedding.detach(), uv_prediction)
+            dur_loss = dur_loss + uv_loss
 
         # Align encoded text with mel-spectrogram and get mu_y segment
         mu_y = torch.matmul(attn.squeeze(1).transpose(1, 2), mu_x.transpose(1, 2))

@@ -3,11 +3,33 @@
 import math
 
 import torch
+import numpy as np
 
 from model.base import BaseModule
 from model.utils import sequence_mask, convert_pad_shape
 
 from matcha.models.components.text_encoder import RotaryPositionalEmbeddings
+
+class Transpose(torch.nn.Module):
+    def __init__(self, dim0, dim1):
+        super(Transpose, self).__init__()
+        self.dim0 = dim0
+        self.dim1 = dim1
+
+    def forward(self, x):
+        # Perform the transpose operation
+        x_transposed = torch.transpose(x, self.dim0, self.dim1)
+        return x_transposed
+    
+class Mean(torch.nn.Module):
+    def __init__(self, dim0):
+        super(Mean, self).__init__()
+        self.dim0 = dim0
+
+    def forward(self, x):
+        # Perform the transpose operation
+        x_mean = x.mean(axis=self.dim0)
+        return x_mean
 
 class LayerNorm(BaseModule):
     def __init__(self, channels, eps=1e-4):
@@ -316,43 +338,48 @@ class TextEncoder(BaseModule):
         self.encoder = Encoder(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels, n_heads, n_layers, 
                                kernel_size, p_dropout, window_size=window_size, ifRoPE=ifRoPE)
 
-        self.proj_m = torch.nn.Conv1d(n_channels + (spk_emb_dim if n_spks > 1 else 0), n_feats, 1)
-        self.proj_w = DurationPredictor(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels_dp, 
-                                        kernel_size, p_dropout)
         self.ifmsemotts = ifmsemotts
         if self.ifmsemotts:
+            self.proj_m = torch.nn.Conv1d(n_channels*2 + (spk_emb_dim if n_spks > 1 else 0), n_feats, 1)
+            self.proj_w = DurationPredictor(n_channels*2 + (spk_emb_dim if n_spks > 1 else 0), filter_channels_dp, 
+                                            kernel_size, p_dropout)
             mel_num = n_feats
-            self.text_variation_encoder = nn.Sequential(
+            self.text_variation_encoder = torch.nn.Sequential(
+                # Transpose(2,1),
+                torch.nn.Conv1d(n_channels, n_channels//2, 5, 1, 2),
+                torch.nn.ReLU(),
                 Transpose(2,1),
-                nn.Conv1d(n_channels, n_channels, 5, 1, 2),
-                nn.ReLU(),
+                torch.nn.LayerNorm(n_channels//2),
+                torch.nn.Linear(n_channels//2, n_channels//2),
+                torch.nn.ReLU(),
+                torch.nn.Linear(n_channels//2, n_channels//2),
                 Transpose(2,1),
-                nn.LayerNorm(n_channels),
-                nn.Linear(n_channels, n_channels),
-                nn.ReLU(),
-                nn.Linear(n_channels, n_channels),
             )
-            self.mel_variation_encoder = nn.Sequential(
+            self.mel_variation_encoder = torch.nn.Sequential(
+                torch.nn.Conv1d(mel_num, n_channels//4, 5, 1, 2),
+                torch.nn.Conv1d(n_channels//4, n_channels//2, 5, 1, 2),
                 Transpose(2,1),
-                nn.Conv1d(mel_num, n_channels//2, 5, 1, 2),
-                nn.Conv1d(n_channels//2, n_channels, 5, 1, 2),
-                Transpose(2,1),
-                nn.LayerNorm(n_channels),
-                nn.Dropout(),
+                torch.nn.LayerNorm(n_channels//2),
+                torch.nn.Dropout(),
                 Mean(1),
             )
-            self.ed_embedding = torch.nn.Sequential(
+            self.el_embedding = torch.nn.Embedding(4, n_channels//2)
+            self.ed_embedding = torch.torch.nn.Sequential(
                 torch.nn.Linear(1, n_channels), 
                 torch.nn.Tanh()
             )
         else:
+            self.proj_m = torch.nn.Conv1d(n_channels + (spk_emb_dim if n_spks > 1 else 0), n_feats, 1)
+            self.proj_w = DurationPredictor(n_channels + (spk_emb_dim if n_spks > 1 else 0), filter_channels_dp, 
+                                            kernel_size, p_dropout)
             self.ed_embedding = torch.nn.Sequential(
                 torch.nn.Linear(12, n_channels), 
                 torch.nn.Tanh()
             )
 
     def forward(self, x, x_lengths, spk=None, ed=None, additionals=[]):
-        # additionals: emotion_label
+        # additionals: els, mels, inference
+        uv_embedding, uv_prediction = None, None
             
         x = self.emb(x) * math.sqrt(self.n_channels)
         x = torch.transpose(x, 1, -1)
@@ -365,9 +392,20 @@ class TextEncoder(BaseModule):
         
         if ed is not None:
             if self.ifmsemotts:
-                emotion_label, 
+                els, mels, inference = additionals
                 # MsEmoTTS
-                # self.ed_embedding(ed[])
+                shape = ed.shape
+                els_numpy = els.detach().cpu().numpy()
+                bool_list = torch.tensor(np.eye(12)[els_numpy].astype(bool)).unsqueeze(1).repeat((1,shape[1],1))
+                new_ed = ed[bool_list].view(shape[0],shape[1],1)
+                a = self.ed_embedding(new_ed).transpose(-1,-2) 
+                b = self.el_embedding(els).unsqueeze(1).repeat((1,x.shape[2],1))
+                b = torch.transpose(b, 2, 1)
+                if not(inference):
+                    uv_embedding = self.mel_variation_encoder(mels).unsqueeze(2).repeat((1,1,x.shape[2]))
+                uv_prediction = self.text_variation_encoder(x)
+                c = uv_prediction if inference else uv_embedding
+                x = torch.cat([x + a, b, c], axis=1)
             else:
                 # Add hierarchical emotion distribution embedding
                 x = x + self.ed_embedding(ed).transpose(-1,-2)
@@ -377,4 +415,4 @@ class TextEncoder(BaseModule):
         x_dp = torch.detach(x)
         logw = self.proj_w(x_dp, x_mask)
 
-        return mu, logw, x_mask
+        return mu, logw, x_mask, [uv_embedding, uv_prediction]
